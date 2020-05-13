@@ -8,6 +8,7 @@ To get the last tag of BASIS released under the CBICA umbrella, please do the fo
 
 ```bash
 git clone https://github.com/CBICA/BASIS.git
+cd BASIS
 git checkout 2.1.4
 ```
 
